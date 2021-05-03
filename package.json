@@ -1,6 +1,6 @@
 {
   "name": "chris-barnes-npm-business-card",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI Tool To Display Info Relevant To Chris Barnes, I.E. An Online Business Card.",
   "main": "index.js",
   "scripts": {
