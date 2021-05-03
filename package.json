@@ -1,0 +1,27 @@
+{
+  "name": "chris-barnes-npm-business-card",
+  "version": "1.0.1",
+  "description": "CLI Tool To Display Info Relevant To Chris Barnes, I.E. An Online Business Card.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisbarnes2000/npm-business-card.git"
+  },
+  "keywords": [
+    "npm",
+    "business",
+    "card",
+    "cli",
+    "CLI",
+    "Info"
+  ],
+  "author": "Chirs Barnes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisbarnes2000/npm-business-card/issues"
+  },
+  "homepage": "https://github.com/chrisbarnes2000/npm-business-card#readme"
+}
