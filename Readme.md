@@ -4,6 +4,9 @@
 [![NPM downloads](https://img.shields.io/npm/dm/chris-barnes-npm-business-card.svg?style=flat)](https://npmjs.org/package/chris-barnes-npm-business-card)
 <!-- [![Build Status](https://img.shields.io/travis/ChrisBarnes2000/chris-barnes-npm-business-card.svg?style=flat)](https://travis-ci.org/ChrisBarnes2000/chris-barnes-npm-business-card) -->
 
+[![GitHub](https://img.shields.io/github/forks/ChrisBarnes2000/npm-business-card.svg?style=flat-square)](https://github.com/ChrisBarnes2000/npm-business-card/network)
+[![GitHub](https://img.shields.io/github/issues/ChrisBarnes2000/npm-business-card.svg?style=flat-square)](https://github.com/ChrisBarnes2000/npm-business-card/issues)
+
 📋 npm module/CLI Tool that **Prints Relevant Data** connected to (Chris)topher Barnes! I.E. An Online Business Card.
 
 ## Features
