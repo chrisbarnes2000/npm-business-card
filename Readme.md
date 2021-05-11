@@ -58,5 +58,7 @@ A working `index.md` file can be found in the docs directory [here](docs/index.m
 ## Resources
 
 * [MakeSchool - Building and Deploying a Node Module](https://make-school-courses.github.io/BEW-2.1-Advanced-Web-Patterns/#/Lessons/NodeModules)
+* [MakeSchool - Challenge 3: Node Module](https://make-school-courses.github.io/BEW-2.1-Advanced-Web-Patterns/#/Challenges/Module)
 * [jamesqquick - how-to-create-and-publish-npm-packages](https://www.jamesqquick.com/blog/how-to-create-and-publish-npm-packages)
 * [chrisbarnes2000 npm packages](https://www.npmjs.com/settings/chrisbarnes2000/packages)
+* [droxey - tocsify](https://github.com/droxey/tocsify)
